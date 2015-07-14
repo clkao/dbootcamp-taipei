@@ -3,7 +3,7 @@ doctype html
 - var use = { cdn: true, og: true, favicon: true }
 - var lib = { jquery: true, d3js: false, angular: true, bootstrap: true, semantic: false }
 - var assets = "assets"
-- var thumbnail = "http://taipei.dbootcamp.org/img/thumbnail.jpg"
+- var thumbnail = "http://dbootcamp.taipei/img/thumbnail.jpg"
 - var favicon = "thumbnail.png"
 html(lang="en")
   head(prefix="og: http://ogp.me/ns#")
@@ -18,6 +18,7 @@ html(lang="en")
     script(type="text/javascript",src="/index.js")
     include template/jsonld.jade
   body
+    include template/redirect.jade
     script(type="text/javascript").
       var lang = navigator.userLanguage || navigator.language || navigator.browserLanguage || navigator.systemLanguage;
       if(/zh|tw/i.exec(lang)) { 
