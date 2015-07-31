@@ -84,10 +84,10 @@ Justin同時負責Innovate Africa基金及Impact Africa初創基金，在非洲�
 
     * id: "yolanda"
       en:
-        name: "Yolanda Ma", title: "Consultant", inst: "UNDP Asia & Pacific"
+        name: "Yolanda Ma", title: "Co-founder", inst: "DJChina.org"
         desc: """Yolanda Ma is the co-founder and editor of Data Journalism China, an independent website that promotes and educates on data journalism in Chinese. She has trained hundreds of professional journalists in China on data analysis and visualisation skills since 2012. She previously worked for Reuters as assistant project manager for "Connected China", which won 2013 Data Journalism Award. Before that she was the first social media editor for the South China Morning Post in Hong Kong. Currently she is based in Bangkok, working for the U.N. on innovation and communications."""
       zh: 
-        name: "馬金馨",     title: "創新顧問", inst: "聯合國開發計畫署亞洲總部"
+        name: "馬金馨",     title: "共同創辦人", inst: "DJChina.org"
         desc: """數據中文網聯合創辦人，「開放數據中國」協同發起人。曾任湯森路透（Thomson Reuters）資料新聞助理專案經理，協管資料新聞產品的開發與執行，專案「Connected China」曾獲2013年度全球資料新聞獎。前香港南華早報首任社交媒體編輯，負責專案「公民地圖」獲亞洲出版協會2011年度卓越新聞榮譽獎。現任聯合國開發計畫署亞太總部創新顧問。"""
 
     * id: "cedric"
